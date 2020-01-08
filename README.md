@@ -1,2 +1,2 @@
-# WadCoinFHmBit
-FH $m
+# WadCoin/FHe mBit
+FHe $m
