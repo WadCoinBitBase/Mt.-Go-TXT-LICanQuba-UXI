@@ -1,2 +1,2 @@
 # WadCoinFHmBit
-$FHmD
+FH $m
