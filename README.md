@@ -1,2 +1,2 @@
 # WadCoin/FHe mBit
-FHe $m
+FHe $mDOLLAR
